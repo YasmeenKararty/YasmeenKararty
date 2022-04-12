@@ -23,8 +23,10 @@
 
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YasmeenKararty&show_icons=true&locale=en&layout=compact" alt="YasmeenElKararty" /></div>
 <br>
-<p>&nbsp;<img float="center" src="https://github-readme-stats.vercel.app/api?username=YasmeenKararty&show_icons=true&locale=en" alt="YasmeenElKararty" /><img float="center" margin-left=5px src="https://github-readme-streak-stats.herokuapp.com/?user=YasmeenKararty&" alt="YasmeenElKararty" /></p>
-
+<div align="center">
+<img float="center" src="https://github-readme-stats.vercel.app/api?username=YasmeenKararty&show_icons=true&locale=en" alt="YasmeenElKararty" />
+<img float="center" margin-left=5px src="https://github-readme-streak-stats.herokuapp.com/?user=YasmeenKararty&" alt="YasmeenElKararty" /></p>
+</div>
 <!---- 👋 Hi, I’m @YasmeenKararty
 - 👀 I’m interested in programming and developing softwares and applications.
 - 🌱 I’m currently learning Computer Science at Ain Shams University.
