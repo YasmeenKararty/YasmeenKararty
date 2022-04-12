@@ -21,11 +21,9 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="70"/> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YasmeenKararty&show_icons=true&locale=en&layout=compact" alt="YasmeenElKararty" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YasmeenKararty&show_icons=true&locale=en" alt="YasmeenElKararty" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YasmeenKararty&" alt="YasmeenElKararty" /></p>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YasmeenKararty&show_icons=true&locale=en&layout=compact" alt="YasmeenElKararty" /></div>
+<br>
+<p>&nbsp;<img float="left" src="https://github-readme-stats.vercel.app/api?username=YasmeenKararty&show_icons=true&locale=en" alt="YasmeenElKararty" /><img float="left" margin-left=5px src="https://github-readme-streak-stats.herokuapp.com/?user=YasmeenKararty&" alt="YasmeenElKararty" /></p>
 
 <!---- 👋 Hi, I’m @YasmeenKararty
 - 👀 I’m interested in programming and developing softwares and applications.
