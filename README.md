@@ -33,6 +33,20 @@
 <img float="center" src="https://github-readme-stats.vercel.app/api?username=YasmeenKararty&show_icons=true&locale=en&theme=algolia" alt="YasmeenElKararty" />
 <img float="center" margin-left=5px src="https://github-readme-streak-stats.herokuapp.com/?user=YasmeenKararty&theme=algolia" alt="YasmeenElKararty" /></p>
 </div>
+<!---
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/YasmeenKararty"><img alt="Yasmeen ElKararty's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YasmeenKararty&custom_title=Yasmeen%ElKararty%27s%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+
+<br/>
+
+### :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YasmeenKararty&layout=compact&theme=algolia" alt="YasmeenKararty" /></a> </p>
+--->
+
 
 <!---- 👋 Hi, I’m @YasmeenKararty
 - 👀 I’m interested in programming and developing softwares and applications.
