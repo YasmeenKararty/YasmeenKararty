@@ -26,9 +26,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="70"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="70"/> 
 </p>
-<!--
+
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YasmeenKararty&show_icons=true&locale=en&layout=compact&theme=algolia" alt="YasmeenElKararty" /></div>
--->
+
 <br>
 <!--
 <div align="center">
