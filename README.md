@@ -1,12 +1,14 @@
 <h1 align="center">👋 Hello, I’m Yasmeen ElKararty 
+  <br>
   <a href="https://www.linkedin.com/in/yasmeenelkararty/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a> 
 </h1>
 
+<!---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=YasmeenKararty&label=Profile%20views&color=0e75b6&style=flat" alt="YasmeenKararty" />
 		   <img src="https://badges.pufler.dev/repos/YasmeenKararty" alt="YasmeenKararty" />
 		   <img src="https://img.shields.io/github/followers/YasmeenKararty?label=Followers" alt="YasmeenKararty" />
 </p>
-
+--->
 
 <h3> 👨🏻‍💻 About Me </h3>
 
