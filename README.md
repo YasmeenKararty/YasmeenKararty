@@ -12,7 +12,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 `Senior` Computer Science Undergraduate.
+- 🎓 `Fresh Graduate` from Computer Science, Ain Shams University.
 - 🔭  I’m looking to collaborate on projects that develop my Problem Solving Skills and my Technical skills in Software Development.
 - 📫 How to reach me yasmeenkarartyy@gmail.com
 
