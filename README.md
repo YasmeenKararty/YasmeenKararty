@@ -12,9 +12,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 `Fresh Graduate` from Computer Science, Ain Shams University.
+- 🎓  Experienced Software Engineer, graduated from Faculty of Computer and Information Science, Ain Shams University.
 - 🔭  I’m looking to collaborate on projects that develop my Problem Solving Skills and my Technical skills in Software Development.
-- 📫 How to reach me yasmeenkarartyy@gmail.com
+- 📫 How to reach me yasmeenkararty@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
